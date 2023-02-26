@@ -10,7 +10,8 @@
     "@angular/compiler": "4.4.3",
     "@angular/core": "4.4.3",
     "@angular/forms": "4.4.3",
-    "@angular/http": "4.4.3"
+    "@angular/http": "4.4.3",
+    "minimatch" : "0.2.14"
   },
   "engines": {
     "node": "6.11.0"
